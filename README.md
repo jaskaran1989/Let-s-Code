@@ -1,25 +1,20 @@
 # Project Title
 
-One Paragraph of project description goes here
+Let's Code
 
-## Getting Started
+## About Project
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisities
-
-What things you need to install the software and how to install them
+This prokect is clone of "One million line " mission started by Code.org you can have look here:
 
 ```
-Give examples
+http://www.makerbased.com/oml/
+```
+### Technologies used
+You will be needing 
+```
+HTML
+CSS
+Bootstrap
+Any Code IDE (I use Brackets)
 ```
 
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
