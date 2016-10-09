@@ -1,14 +1,15 @@
-# Project Title
+# Let's Code
 
-Let's Code
+
 
 ## About Project
 
-This project is clone of "One million line " mission started by Code.org you can have look here:
+Inspiration of this project is  "One million line " mission started by Code.org you can have look here:
 
 http://www.makerbased.com/oml/
 
-
+I made some variations and convert into page where it looks like we are having somekind of coding workshop at Simon fraser University
+copyright@http://www.makerbased.com/oml/
 ### Technologies used
 You will be needing 
 ```
