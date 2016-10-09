@@ -9,7 +9,7 @@ Inspiration of this project is  "One million line " mission started by Code.org 
 http://www.makerbased.com/oml/
 
 I made some variations and convert into page where it looks like we are having somekind of coding workshop at Simon fraser University
-copyright@http://www.makerbased.com/oml/
+
 ### Technologies used
 You will be needing 
 ```
@@ -19,3 +19,4 @@ Bootstrap
 Any Code IDE (I use Brackets)
 ```
 
+copyright@http://www.makerbased.com/oml/
